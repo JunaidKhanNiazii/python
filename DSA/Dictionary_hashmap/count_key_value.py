@@ -4,5 +4,4 @@ dictionay = {
     "city": "lahore"
 }
 
-
-print(dictionay.keys())
+print(len(dictionay))
